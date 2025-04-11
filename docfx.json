@@ -1,0 +1,49 @@
+{
+  "metadata": [
+    {
+      "src": [
+        {
+          "files": [
+            "**/*.csproj"
+          ],
+          "exclude": [
+            "**/bin/**",
+            "**/obj/**"
+          ]
+        }
+      ],
+      "dest": "api"
+    }
+  ],
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.yml",
+          "**/*.md"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/images/**"
+        ]
+      }
+    ],
+    "overwrite": [
+      {
+        "files": [
+          "**/*.overwrite.md"
+        ]
+      }
+    ],
+    "dest": "_site",
+    "globalMetadata": {
+      "_appTitle": "HelloWorldTooling Docs"
+    },
+    "template": [
+      "default"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+image: Visual Studio 2022
+
+install:
+  - choco install dotnetcore-sdk
+  - dotnet tool restore
+
+build_script:
+  - dotnet cake build.cake
+
+test: off

@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: Hello_worldTooling.Tests
+  commentId: N:Hello_worldTooling.Tests
+  id: Hello_worldTooling.Tests
+  children:
+  - Hello_worldTooling.Tests.UnitTest1
+  langs:
+  - csharp
+  - vb
+  name: Hello_worldTooling.Tests
+  nameWithType: Hello_worldTooling.Tests
+  fullName: Hello_worldTooling.Tests
+  type: Namespace
+  assemblies:
+  - Hello-worldTooling.Tests
+references:
+- uid: Hello_worldTooling.Tests.UnitTest1
+  commentId: T:Hello_worldTooling.Tests.UnitTest1
+  href: Hello_worldTooling.Tests.UnitTest1.html
+  name: UnitTest1
+  nameWithType: UnitTest1
+  fullName: Hello_worldTooling.Tests.UnitTest1

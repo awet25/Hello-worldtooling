@@ -1,0 +1,72 @@
+{
+  "source_base_path": "C:/Users/awetb/OneDrive/Desktop/code/C#/Handon12",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hello_worldTooling.Tests.UnitTest1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hello_worldTooling.Tests.UnitTest1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Hello_worldTooling.Tests.UnitTest1",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Hello_worldTooling.Tests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Hello_worldTooling.Tests.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Hello_worldTooling.Tests",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "tools/Addins/Cake.Common.5.0.0/NuGet.org.md",
+      "output": {
+        ".html": {
+          "relative_path": "tools/Addins/Cake.Common.5.0.0/NuGet.org.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

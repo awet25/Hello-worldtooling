@@ -1,0 +1,28 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Hello_worldTooling.Tests
+  name: Hello_worldTooling.Tests
+  href: api/Hello_worldTooling.Tests.html
+  commentId: N:Hello_worldTooling.Tests
+  fullName: Hello_worldTooling.Tests
+  nameWithType: Hello_worldTooling.Tests
+- uid: Hello_worldTooling.Tests.UnitTest1
+  name: UnitTest1
+  href: api/Hello_worldTooling.Tests.UnitTest1.html
+  commentId: T:Hello_worldTooling.Tests.UnitTest1
+  fullName: Hello_worldTooling.Tests.UnitTest1
+  nameWithType: UnitTest1
+- uid: Hello_worldTooling.Tests.UnitTest1.Test1
+  name: Test1()
+  href: api/Hello_worldTooling.Tests.UnitTest1.html#Hello_worldTooling_Tests_UnitTest1_Test1
+  commentId: M:Hello_worldTooling.Tests.UnitTest1.Test1
+  fullName: Hello_worldTooling.Tests.UnitTest1.Test1()
+  nameWithType: UnitTest1.Test1()
+- uid: Hello_worldTooling.Tests.UnitTest1.Test1*
+  name: Test1
+  href: api/Hello_worldTooling.Tests.UnitTest1.html#Hello_worldTooling_Tests_UnitTest1_Test1_
+  commentId: Overload:Hello_worldTooling.Tests.UnitTest1.Test1
+  isSpec: "True"
+  fullName: Hello_worldTooling.Tests.UnitTest1.Test1
+  nameWithType: UnitTest1.Test1

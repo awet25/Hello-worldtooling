@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2025.3.22.0" projectFile="C:\Users\awetb\OneDrive\Desktop\code\C#\Handon12\Hello-worldTooling\Hello-worldTooling.shfbproj" started="4/11/2025 1:01:35 PM">
+<buildStep step="Initializing">
+The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder&#39;
+Locating components in the following folder(s):
+    C:\Users\awetb\OneDrive\Desktop\code\C#\Handon12\Hello-worldTooling
+    C:\ProgramData\EWSoftware\Sandcastle Help File Builder\Components and Plug-Ins
+    C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Components
+    Last step completed in 00:00:00.0275
+</buildStep>
+<buildStep step="Failed">
+
+SHFB: Error BE0071: Unable to locate information for the project framework version &#39;.NET Framework 4.7.2&#39; or a suitable redirected version on this system.  See error number help topic for details.
+   at SandcastleBuilder.Utils.BuildEngine.BuildProcess.Build()
+
+</buildStep>
+</shfbBuild>
